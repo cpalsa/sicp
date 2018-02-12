@@ -1,4 +1,5 @@
-# *Structure and Interpretation of Computer Programs* - Solved and Explained
+# *Structure and Interpretation of Computer Programs*
+## Solved and Explained
 
 The premise of this project is a simple one: complete all examples/problems in SICP and explain how and why they work.
 

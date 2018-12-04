@@ -17,6 +17,4 @@ If you wish to follow along using this book, you can find it in its entirety onl
  
  The official website also contains all the code samples from the book, making it easier than ever to jump in. 
  
- The examples in this book are all implemented using the programming language, LISP, using the Scheme dialect.
- 
  ## To Be Continued...
